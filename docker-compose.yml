@@ -34,7 +34,6 @@ services:
         image: composer
         volumes:
             - ./www/app:/app
-        command: install
     adminer:
         image: adminer
         ports:
