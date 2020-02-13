@@ -1,4 +1,4 @@
 .env
 .idea
 node_modules
-www/app/vendor
+www/vendor
